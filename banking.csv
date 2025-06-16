@@ -1,0 +1,30 @@
+inquiry_id,inquiry_type,customer_id,account_id,question,response,status,date
+1,Account Balance,201,5001,What is my current account balance?,"Your current balance is $1,500.00.",Resolved,2025-01-01
+2,Transfer Funds,202,5002,How can I transfer funds to another account?,"To transfer funds, log in to your account and select 'Transfer Funds'.",Resolved,2025-01-02
+3,Loan Status,203,5003,What is the status of my home loan application?,Your home loan application is in process. Expect a decision in 3-5 business days.,Pending,2025-01-03
+4,Account Opening,204,,How can I open a new savings account?,"To open a new savings account, visit our website or a local branch.",Resolved,2025-01-04
+5,Credit Card Application,205,5005,What is the process for applying for a credit card?,"To apply for a credit card, please visit our credit card application page.",Resolved,2025-01-05
+6,Transaction Inquiry,206,5006,Can you help me with a transaction inquiry?,You can view your transaction history in the 'Transactions' tab of your account.,Resolved,2025-01-06
+7,Mortgage Information,207,5007,How can I apply for a mortgage loan?,You can apply for a mortgage by visiting the 'Mortgage' section of our website.,Resolved,2025-01-07
+8,ATM Withdrawal Limit,208,5008,What is the withdrawal limit for ATM transactions?,The ATM withdrawal limit is $500 per day.,Resolved,2025-01-08
+9,Interest Rates,209,5002,What is the current interest rate for a savings account?,The current interest rate for savings accounts is 1.5% annually.,Resolved,2025-01-09
+10,Fraud Report,210,5010,How do I report fraudulent activity on my account?,"To report fraudulent activity, contact us immediately at +250788000000.",Resolved,2025-01-10
+11,Account Lock,211,5011,My account is locked. How can I unlock it?,Please contact customer support to unlock your account.,Resolved,2025-01-11
+12,PIN Change,212,,How can I change my PIN?,"To change your PIN, go to 'Settings' and select 'Change PIN'.",Pending,2025-01-12
+13,Online Banking Access,213,5013,What should I do if I can't access my online banking?,"If you can't access online banking, please reset your password or contact support.",Resolved,2025-01-13
+14,Deposit Inquiry,214,5014,What is the status of my deposit?,Your deposit is currently being processed and should reflect in your account within 24 hours.,Resolved,2025-01-14
+15,Account Closure,215,,How can I close my bank account?,"To close your account, contact customer support for assistance.",Pending,2025-01-15
+16,Fraud Report,244,5048.0,"I suspect fraud on my account, what now?",Call +250788000000 to report immediately.,Resolved,2025-02-13
+17,PIN Change,236,5040.0,I want to change my PIN.,Navigate to 'Settings' > 'Change PIN'.,Pending,2025-02-05
+18,Transaction Inquiry,226,5030.0,I need details on a recent transaction.,Check the 'Transactions' tab in your account.,Resolved,2025-01-26
+19,ATM Locations,216,5015,Where can I find the nearest ATM?,"You can find the nearest ATM using the 'ATM Locator' feature on our mobile app or website.",Resolved,2025-02-01
+20,ATM Card Block,217,5016,My ATM card is lost. How can I block it?,"To block your ATM card immediately, log into your account or call customer service at +250788000000.",Resolved,2025-02-02
+21,ATM PIN Reset,218,5017,I forgot my ATM PIN. What should I do?,"Please visit the nearest branch with a valid ID to reset your ATM PIN, or use the online 'Reset PIN' option.",Resolved,2025-02-03
+22,ATM Deposit,219,5018,Can I deposit money through an ATM?,"Yes, some of our ATMs support cash and check deposits. Look for the 'Deposit-enabled' label.",Resolved,2025-02-04
+23,ATM Withdrawal Fee,220,5019,Is there a fee for ATM withdrawals?,"ATM withdrawals are free at our ATMs. A small fee may apply for using other bank ATMs.",Resolved,2025-02-05
+24,Debit Card Activation,221,5020,How do I activate my new debit card?,"To activate your debit card, log in to your account and navigate to 'Card Services' > 'Activate Card'.",Resolved,2025-02-06
+25,International Usage,222,5021,Can I use my debit card internationally?,"Yes, you can use your card abroad. Make sure international transactions are enabled in your settings.",Resolved,2025-02-07
+26,Mobile Banking Setup,223,5022,How do I set up mobile banking?,"Download our mobile app from the app store, then log in using your account credentials.",Resolved,2025-02-08
+27,Transaction Dispute,224,5023,How do I dispute a transaction?,"To dispute a transaction, go to the 'Transactions' section, select the transaction, and click 'Dispute'.",Resolved,2025-02-09
+28,Monthly Fees,225,5024,Are there monthly fees for my account?,"Monthly maintenance fees may apply depending on your account type. Please refer to our fee schedule.",Resolved,2025-02-10
+
