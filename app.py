@@ -10,6 +10,7 @@ from textblob import TextBlob
 import rapidfuzz
 import re
 import uvicorn
+import random
 
 # Initialize FastAPI app
 app = FastAPI(title="LEA Bot Assistant", description="A banking chatbot API", version="1.0.0")
